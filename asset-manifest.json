@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Ecommerce-Frontend/static/css/main.fc84402b.chunk.css",
+    "main.js": "/Ecommerce-Frontend/static/js/main.5418b110.chunk.js",
+    "main.js.map": "/Ecommerce-Frontend/static/js/main.5418b110.chunk.js.map",
+    "runtime-main.js": "/Ecommerce-Frontend/static/js/runtime-main.745a0c9f.js",
+    "runtime-main.js.map": "/Ecommerce-Frontend/static/js/runtime-main.745a0c9f.js.map",
+    "static/js/2.7cc29732.chunk.js": "/Ecommerce-Frontend/static/js/2.7cc29732.chunk.js",
+    "static/js/2.7cc29732.chunk.js.map": "/Ecommerce-Frontend/static/js/2.7cc29732.chunk.js.map",
+    "static/js/3.a2cf8d02.chunk.js": "/Ecommerce-Frontend/static/js/3.a2cf8d02.chunk.js",
+    "static/js/3.a2cf8d02.chunk.js.map": "/Ecommerce-Frontend/static/js/3.a2cf8d02.chunk.js.map",
+    "index.html": "/Ecommerce-Frontend/index.html",
+    "static/css/main.fc84402b.chunk.css.map": "/Ecommerce-Frontend/static/css/main.fc84402b.chunk.css.map",
+    "static/js/2.7cc29732.chunk.js.LICENSE.txt": "/Ecommerce-Frontend/static/js/2.7cc29732.chunk.js.LICENSE.txt",
+    "static/media/Bannner.af5706f2.jpg": "/Ecommerce-Frontend/static/media/Bannner.af5706f2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.745a0c9f.js",
+    "static/js/2.7cc29732.chunk.js",
+    "static/css/main.fc84402b.chunk.css",
+    "static/js/main.5418b110.chunk.js"
+  ]
+}
