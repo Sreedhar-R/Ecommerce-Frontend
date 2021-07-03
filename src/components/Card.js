@@ -6,8 +6,8 @@ export default function Card({product,ratingPercentage}) {
 
 
     return (
-            <div className="col-md-3">
-                <Link to={`/products/${product.id}`}><div href="#" className="card card-product-grid">
+            <div className="container col-md-3">
+                <Link to={`/Ecommerce-Frontend/products/${product.id}`}><div  className="card card-product-grid">
                     <a href="#" className="img-wrap"> <img src={product.img1}/> </a>
                     <figcaption className="info-wrap">
                     <a href="#" className="title">{product.name}</a>

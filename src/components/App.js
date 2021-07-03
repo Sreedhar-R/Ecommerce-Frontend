@@ -29,13 +29,13 @@ class App extends Component{
       <React.Fragment> 
         <Header />
         <Switch>
-        <Route path='/home' exact component={Cardlist}/>
-        <Route path='/products' exact component={Cardlist}/>
-        <Route path='/signin' exact component={SignIn}/>
-        <Route path='/register' exact component={Register}/>
-        <Route path='/cart' exact component={Cartlist}/>
-        <Route path='/products/:id' exact component={CardExpand}/>
-        <Redirect from='/' exact to='/home' />
+        <Route path='/Ecommerce-Frontend/home' exact component={Cardlist}/>
+        <Route path='/Ecommerce-Frontend/products' exact component={Cardlist}/>
+        <Route path='/Ecommerce-Frontend/signin' exact component={SignIn}/>
+        <Route path='/Ecommerce-Frontend/register' exact component={Register}/>
+        <Route path='/Ecommerce-Frontend/cart' exact component={Cartlist}/>
+        <Route path='/Ecommerce-Frontend/products/:id' exact component={CardExpand}/>
+        <Redirect from='' exact to='/Ecommerce-Frontend/home' />
         {/* <Redirect to='/error'/> */}
         </Switch>
         <Footer/>

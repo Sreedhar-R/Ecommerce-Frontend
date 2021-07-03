@@ -27,7 +27,7 @@ export default function Header() {
                 <div className="col-lg-4 col-sm-6 col-12">
                     <div className="widgets-wrap float-md-right">
                         <div className="widget-header  mr-3" >
-                            <Link to="/cart" className="icon icon-sm rounded-circle border"><i className="fa fa-shopping-cart"></i></Link>
+                            <Link to="/Ecommerce-Frontend/cart" className="icon icon-sm rounded-circle border"><i className="fa fa-shopping-cart"></i></Link>
                             <span className="badge badge-pill badge-danger notify">0</span>
                         </div>
                         <div className="widget-header icontext">
@@ -35,8 +35,8 @@ export default function Header() {
                             <div className="text">
                                 <span className="text-muted">Welcome!</span>
                                 <div> 
-                                    <Link to="/signin">Sign in</Link> |  
-                                    <Link to="/register"> Register</Link>
+                                    <Link to="/Ecommerce-Frontend/signin">Sign in</Link> |  
+                                    <Link to="/Ecommerce-Frontend/register"> Register</Link>
                                 </div>
                             </div>
                         </div>

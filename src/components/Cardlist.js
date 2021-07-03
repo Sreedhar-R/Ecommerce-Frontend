@@ -9,7 +9,7 @@ export default function Cardlist() {
 
 
     return(
-        <div>
+        <>
             <Navbar/>
             <Banner/>
             <section className="section-name  padding-y-sm">
@@ -31,7 +31,7 @@ export default function Cardlist() {
                     </div>
                 </div>
             </section>
-        </div>
+        </>
     )
     
 
